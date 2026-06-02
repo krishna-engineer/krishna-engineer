@@ -1,32 +1,32 @@
-# Hi there, I'm Krishnakumar Mishra 👋
+# Hello hello, I'm Krishnakumar Mishra 
 
-### Lead Software Engineer
+### AI/ML Lead — Building production LLM & agentic systems
 
-I am a seasoned engineer with **7+ years of experience** specializing in building scalable backend systems, cloud architecture, and next-generation AI solutions. 
+I'm a senior engineer with **7+ years** taking AI from prototype to production — currently leading the AI/ML stack at [Paperpal](https://paperpal.com), an AI-powered academic writing platform serving researchers worldwide.
 
-I bridge the gap between scope doc to production-grade solutions.
+I bridge scope docs to production-grade systems, with focus on the things that actually break: inference serving, agent orchestration, evaluation, and the state-management problems that surface only when real users hit your endpoint.
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-* **Languages:** Python (Expert), SQL.
-* **Cloud & Infrastructure:** AWS (Solutions Architect focus), Docker, Serverless patterns.
-* **Generative AI:** LLM Orchestration, Agentic Workflows (Agno, LiteLLM), RAG pipelines.
-* **Concepts:** System Design, Applied Statistics for decision making, Clean Code Architecture.
+* **Generative AI:** LLMs (OpenAI, Bedrock, Vertex), agentic frameworks (Agno), RAG pipelines, MCP tool servers, prompt engineering, fine-tuning (LoRA)
+* **LLM Serving & Ops:** vLLM, AWS SageMaker endpoints, Langfuse (observability + LLM-as-judge evals)
+* **Cloud & Infrastructure:** AWS (Bedrock, SageMaker, Lambda, ECS, RDS, DynamoDB), Terraform, serverless architecture, Docker
+* **Languages:** Python (expert), SQL
+* **Foundations:** System design, distributed systems, applied statistics, event-driven architecture
 
 ---
 
 ### 🔭 Current Focus
 
-* **AWS Architecture:** Deep diving into advanced patterns for reliability and security (currently focused on SAA certification paths).
-* **Agentic AI:** Exploring how autonomous agents can solve complex enterprise workflows using memory and tools.
-* **Applied Statistics:** leveraging data science principles to improve engineering decision-making.
+* **Agentic AI in production** — building Paperpal's chat agent on Agno with RAG, MCP tools, and Langfuse-backed evaluation. Wrestling with state management, context compaction, and observability at scale.
+* **LLM inference optimization** — productionized Gemma-3 4B on SageMaker + vLLM serving live traffic at ~500 RPM; exploring quantization, multi-endpoint architectures, and cost/latency trade-offs.
+* **AWS Solutions Architect – Associate** certification (targeting July 2026).
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect
 
 * **Location:** Mumbai, India
-* **LinkedIn:** www.linkedin.com/in/krishna-se
-
+* **LinkedIn:** [linkedin.com/in/krishna-se](https://www.linkedin.com/in/krishna-se)
