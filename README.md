@@ -2,7 +2,7 @@
 
 ### AI/ML Lead — Building production LLM & agentic systems
 
-I'm a senior engineer with **7+ years** taking AI from prototype to production — currently leading the AI/ML stack at [Paperpal](https://paperpal.com), an AI-powered academic writing platform serving researchers worldwide.
+I'm a senior engineer with **8+ years** taking AI from prototype to production — currently leading the AI/ML stack at [Paperpal](https://paperpal.com), an AI-powered academic writing platform serving researchers worldwide.
 
 I bridge scope docs to production-grade systems, with focus on the things that actually break: inference serving, agent orchestration, evaluation, and the state-management problems that surface only when real users hit your endpoint.
 
