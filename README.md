@@ -1,6 +1,6 @@
-# Hello hello, I'm Krishnakumar Mishra 
+# Hello, I'm Krishnakumar Mishra 
 
-### AI/ML Lead — Building production LLM & agentic systems
+### AI Solutions Architect — Building production LLM & agentic systems
 
 I'm a senior engineer with **8+ years** taking AI from prototype to production — currently leading the AI/ML stack at [Paperpal](https://paperpal.com), an AI-powered academic writing platform serving researchers worldwide.
 
